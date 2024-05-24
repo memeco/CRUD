@@ -1,0 +1,10 @@
+CREATE DATABASE dbPerson;
+USE dbPerson;
+
+CREATE TABLE dbPerson (
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(250) NOT NULL,
+    idade INT NOT NULL,
+    altura DOUBLE,
+    peso DOUBLE
+);
