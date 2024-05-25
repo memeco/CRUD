@@ -1,25 +1,15 @@
-Pessoa.cs
-    classe pessoa
-        - nome
-        - idade
-        - altura
-        - peso
+#1 definir as propriedades da classe criadora do objeto
 
-    construtor
-    
-    metodos
-        - CRIAR
-        - LER
-        - EDITAR
-        - EXCLUIR 
+#2 definir a modelagem do banco de dados
 
-Program.cs
-    - instanciar objetos
-    - chamar funções
-        switch case
-        1 CRIAR
-        2 LER
-        3 EDITAR
-        4 EXCLUIR
-        5 SAIR 
+#3 criar os métodos de uso do objeto
+
+    - CREATE
+    - READ
+    - UPDATE
+    - DELETE
+
+#4 Criar a conexão com o banco de dados
+
+#5 Escrever a classe executora dos comandos Program.cs
 
